@@ -1,0 +1,67 @@
+body {
+  background-color: pink;
+  color: black;
+  font-family: /*'Atkinson Hyperlegible',*/ sans-serif;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.tks{
+color: black;
+}
+
+
+td{
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+p{
+  font-size: larger;
+}
+
+table{
+  font-size:large;
+}
+
+h1{
+  font-weight: lighter;
+}
+
+/* links */
+
+a{
+  text-decoration: underline dotted;
+  color: black;
+}
+
+p a:hover{
+  color: lightgoldenrodyellow;
+}
+
+table a:hover{
+color: lightgoldenrodyellow;
+}
+
+
+h4 a:hover{
+  color: lightgoldenrodyellow;
+}
+
+h4 a{
+color: black;
+text-decoration: none;
+}
+
+h5 a{
+color: black;
+text-decoration: none;
+}
+
+h5 a:hover{
+color: lightgoldenrodyellow;
+}
+
+p a:hover{
+color: lightgoldenrodyellow;
+}
